@@ -1,16 +1,38 @@
-### Hi there 👋
+### Welcome!
 
-<!--
-**Jacob-Kline-NEU/Jacob-Kline-NEU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+this.name = "Jacob Kline";
+this.pronouns = String[3]{"He", "Him", "His"};
+this.school = "Northeastern University";
+this.yearInSchool = "Junior";
+this.GPA = 3.624/4.0;
+```
 
-Here are some ideas to get you started:
+I'm from Chicago, IL and I'm excited to welcome you to my GitHub portfolio! Here you'll find some of my favorite projects, like my work on Advent of Code, an ImageProcessor, and a Chess game that I'm still working on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for a co-op through Northeastern's co-op program in the time-frame of July-December 2023 in a software engineer/developer role!
+
+## Langauges:
+- Java | ★★★★☆
+- Racket | ★★★★☆
+- Lisp | ★★★★☆
+- JS (React)/HTML/CSS | ★★★★☆
+- Python | ★★★☆☆
+- Swift | ★★★☆☆
+-----------------------------
+- *English* | Mother Tongue
+- *Hebrew* | Professional Fluency
+- *Arabic* | Conversational Fluency
+- *Mandarin* | Basic Conversational
+
+## Interests:
+
+- Improv Comedy
+- Stand-up Comedy
+- Chess
+- Reproductive Justice
+- Langauge learning
+
+## Contact Info:
+
+Email: [`kline.ja@northeastern.edu`](mailto:kline.ja@northeastern.edu) | [`jacobk513@gmail.com`](mailto:jacobk513@gmail.com)
